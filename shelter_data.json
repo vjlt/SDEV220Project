@@ -1,0 +1,110 @@
+{
+  "pets": [
+    {
+      "name": "Bella",
+      "breed": "Pit Bull Mix",
+      "age": 9,
+      "adoption_status": "Available",
+      "behavioral_notes": [
+        "Good with kids"
+      ]
+    },
+    {
+      "name": "Bully",
+      "breed": "Pit Bull",
+      "age": 1,
+      "adoption_status": "Adopted",
+      "behavioral_notes": [
+        "Loves treats"
+      ]
+    },
+    {
+      "name": "Whiskers",
+      "breed": "Siamese",
+      "age": 2,
+      "adoption_status": "Available",
+      "behavioral_notes": []
+    },
+    {
+      "name": "Rocky",
+      "breed": "Labrador",
+      "age": 5,
+      "adoption_status": "Available",
+      "behavioral_notes": [
+        "Loves fetch"
+      ]
+    },
+    {
+      "name": "Luna",
+      "breed": "Persian",
+      "age": 7,
+      "adoption_status": "Pending",
+      "behavioral_notes": []
+    }
+  ],
+  "donations": [
+    {
+      "donor_name": "Alice Johnson",
+      "amount": 40.0,
+      "date": "2026-07-01"
+    },
+    {
+      "donor_name": "Bright Future Foundation",
+      "amount": 1000.0,
+      "date": "2026-05-20"
+    },
+    {
+      "donor_name": "Marcus Lee",
+      "amount": 40.0,
+      "date": "2026-07-01"
+    },
+    {
+      "donor_name": "Riverside Veterinary Clinic",
+      "amount": 0.0,
+      "date": "2026-07-10"
+    },
+    {
+      "donor_name": "Dana Whitfield",
+      "amount": 25.0,
+      "date": "2026-06-01"
+    },
+    {
+      "donor_name": "Alice Johnson",
+      "amount": 50.0,
+      "date": "2026-07-02"
+    },
+    {
+      "donor_name": "Community Pet Store",
+      "amount": 250.0,
+      "date": "2026-06-15"
+    }
+  ],
+  "volunteers": [
+    {
+      "name": "John Smith",
+      "phone": "555-0142",
+      "skills": [
+        "Dog walking",
+        "Cleaning"
+      ],
+      "hours_logged": 13.54
+    },
+    {
+      "name": "Tom Holland",
+      "phone": "555-0198",
+      "skills": [
+        "Adoption events",
+        "Photography"
+      ],
+      "hours_logged": 7.0
+    },
+    {
+      "name": "Matt Damon",
+      "phone": "123-4567",
+      "skills": [
+        "Dog walking"
+      ],
+      "hours_logged": 3.6
+    }
+  ]
+}
